@@ -17,7 +17,8 @@ public class Employee {
     {
         return name;
     }
-    public String getName1()
+    //!!!!!!!!!!!!!!!!!!!!!
+    public String getName2()
     {
         return name;
     }
